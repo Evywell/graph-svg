@@ -79,4 +79,4 @@ You can personalize the Y axis with the following options:
 
 ## 4. Screenshot
 
-![Graph example](http://hpics.li/35e8afb "Screenshot graph example")
+![Graph example](http://www.hostingpics.net/viewer.php?id=136321graphexample.png "Screenshot graph example")
