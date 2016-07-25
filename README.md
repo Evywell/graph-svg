@@ -77,3 +77,6 @@ You can personalize the Y axis with the following options:
  - `maxY` -> The maximum value of the Y axis 
  - `stepY`-> The step between two graduations
 
+## 4. Screenshot
+
+![Graph example](http://hpics.li/35e8afb "Screenshot graph example")
