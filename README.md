@@ -76,7 +76,3 @@ You can personalize the Y axis with the following options:
  - `minY` -> The first point of the Y axis (generally 0, origin)
  - `maxY` -> The maximum value of the Y axis 
  - `stepY`-> The step between two graduations
-
-## 4. Screenshot
-
-![Graph example](http://www.hostingpics.net/viewer.php?id=136321graphexample.png "Screenshot graph example")
