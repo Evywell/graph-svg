@@ -1,0 +1,27 @@
+.graph-path{
+    fill: transparent;
+    stroke: #81D4FA;
+    stroke-width: 2px;
+}
+
+.graph-fill{
+    fill: #E1F5FE;
+}
+
+.graph-line{
+    fill: transparent;
+    stroke: #333;
+    stroke-width: 2px;
+}
+
+.graph-circle{
+    fill: #FFF;
+    stroke: #81D4FA;
+    stroke-width: 2px;
+    transition: stroke-width 0.3s;
+    cursor: pointer;
+}
+
+.graph-circle:hover{
+    stroke-width: 5px;
+}
